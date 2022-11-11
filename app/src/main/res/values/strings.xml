@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginUI</string>
+    <string name="your_app">YourApp</string>
+    <string name="tag_line">tag line</string>
+    <string name="welcome">Welcome</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="create_account">createAccount</string>
+    <string name="create__account">Create Account</string>
+</resources>
